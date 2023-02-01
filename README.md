@@ -1,38 +1,11 @@
-# COSAHackathonTemplate
 
-This is a template for COSA workshops/open source projects which could be used to create new projects.
+# *CORE Validation* 
 
-## How to use this template (remove this section)
-
-You can copy this template and use this for your open source project, workshops, hackathons or similar where participants should contribute content. Please update the README and other files depending on your requirements, project description etc. You find various "How Tos" documents if you or your expected contributors are not familar with setting up and working with repositories. Feel free to remove no longer applicable ones for your own repository.
-
-You might want to checkout [makeareadme.com](https://www.makeareadme.com) to gain additional guidance and options for a typical README file.
-
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)
-
-**License**: This template is using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). So you can copy or fork this template without the need to reference. Keep attribution from CODE_OF_CONDUCT as this uses CC-BY-4.0. The license files contained are meant to be used for the final open source project you run.
-
-TODO:
-
-* update readme for your project needs, e.g. use CC0 or CC-BY-4.0 license
-* update LICENSE, [INCLUDE COPYRIGHT INSTANCE] -> e.g. Project XY, CDISC, John Doe
-* update CODE_OF_CONDUCT, [INSERT CONTACT METHOD] -> e.g. <example@example.com>
-* update CONTRIBUTION.md if you want to provide additional rules or guidances, for example naming conventions
-
-*-------------------------- DELETE EVERYTHIG ABOVE ---------------------------*
-
-
-# *NAME* 
-
-This repository should be used for the *Project/Workshop/Hackathon XY* to contain code, minutes, notes, outcomes, discussions and more. It is meant to allow anyone working with the results and discussions to allow flexible collaboration and follow up projects.
+This repository is for the CORE Validation efforts to contain code, minutes, notes, outcomes, discussions and more. It is meant to allow anyone working with the results and discussions to allow flexible collaboration and follow up projects.
 
 ## Description
 
-The main purpose of *Project Name* is to ....
-
-If possible use images as well.
-
-![Image Description](./images/placeholder.png)
+The main purpose of CORE Validation is to provide a proejct management mechanism to drive the validation efforts.  Once sufficient validation artifacts are generated, they will be included in the CORE Repo and maintained as part of the pipeline.
 
 ## Contribution
 
