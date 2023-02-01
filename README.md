@@ -5,7 +5,7 @@ This repository is for the CORE Validation efforts to contain code, minutes, not
 
 ## Description
 
-The main purpose of CORE Validation is to provide a proejct management mechanism to drive the validation efforts.  Once sufficient validation artifacts are generated, they will be included in the CORE Repo and maintained as part of the pipeline.
+The main purpose of CORE Validation is to provide a proejct management mechanism to drive the validation efforts.  Once sufficient validation artifacts are generated, they will be included in the CORE Repo and maintained as part of the pipeline.  The issues in this Repo are being managed in Sprints utilizing the ZenHub plugin.  
 
 ## Contribution
 
